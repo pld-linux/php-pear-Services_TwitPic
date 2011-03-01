@@ -5,7 +5,7 @@ Summary:	%{_pearname} - PHP Interface to TwitPics API
 Summary(pl.UTF-8):	%{_pearname} - interfejs PHP do API TwitPics
 Name:		php-pear-%{_pearname}
 Version:	0.1.0
-Release:	2
+Release:	3
 License:	BSD Style
 Group:		Development/Languages/PHP
 Source0:	http://pear.php.net/get/%{_pearname}-%{version}.tgz
