@@ -1,4 +1,3 @@
-%include	/usr/lib/rpm/macros.php
 %define		_status		alpha
 %define		_pearname	Services_TwitPic
 Summary:	%{_pearname} - PHP Interface to TwitPics API
